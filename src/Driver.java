@@ -3,6 +3,7 @@ public class Driver
     public static void main (String[] args)
     {
         forSomething();
+        System.out.println("Work please");
     }//end main method
 
     public static void forSomething()
@@ -21,6 +22,9 @@ public class Driver
             }//end inner for loop
             System.out.println();
         }//end outer for loop
+        //random message for VCS purposes
     }//end method forSomething
 
 }//end Driver class
+//edit for proof
+//Second change
